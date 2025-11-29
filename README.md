@@ -27,3 +27,6 @@ I'm Amir Fanari, I build AI agents and full stack products that solve real busin
 
 ### 😄 Fun fact
 I love mixing creativity with tech and turning ideas into real projects.
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
