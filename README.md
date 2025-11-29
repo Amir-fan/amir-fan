@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Amir  Fanari**, an 18 y/o AI developer building smart systems that think, talk and take action.
+I'm **Amir  Fanari**, an AI developer building smart systems that think, talk and take action.
 
 ### 🚀 What I do
 • AI agents and automation tools  
