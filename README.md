@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Amir-fan/amir-fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Amir  Fanari**, an 18 y/o AI developer building smart systems that think, talk and take action.
 
-Here are some ideas to get you started:
+### 🚀 What I do
+• AI agents and automation tools  
+• AI Integrated Websites  
+• Creative tech projects for businesses  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently learning
+• AI  
+• Machine Learning  
+• Full stack development  
+
+### 🤝 Looking to collaborate on
+• AI tools  
+• Web projects  
+• Anything fun and challenging  
+
+### 💬 Ask me about
+• AI systems  
+• Web development  
+• Startups and building things  
+
+### 📫 How to reach me
+• amir.f.fanari@gmail.com 
+
+### 😄 Fun fact
+I run my own agencycalled **Fanari Labs** and I'm obsessed with making smart tools that actually help people.
