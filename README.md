@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Amir  Fanari**, an AI developer building smart systems that think, talk and take action.
+I'm Amir Fanari, I build AI agents and full stack products that solve real business problems.
 
 ### 🚀 What I do
 • AI agents and automation tools  
@@ -13,9 +13,9 @@ I'm **Amir  Fanari**, an AI developer building smart systems that think, talk an
 • Full stack development  
 
 ### 🤝 Looking to collaborate on
-• AI tools  
+• AI automation / Agents  
 • Web projects  
-• Anything fun and challenging  
+• SaaS tools  
 
 ### 💬 Ask me about
 • AI systems  
@@ -26,4 +26,4 @@ I'm **Amir  Fanari**, an AI developer building smart systems that think, talk an
 • amir.f.fanari@gmail.com 
 
 ### 😄 Fun fact
-I run my own agencycalled **Fanari Labs** and I'm obsessed with making smart tools that actually help people.
+I love mixing creativity with tech and turning ideas into real projects.
