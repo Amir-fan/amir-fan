@@ -5,7 +5,7 @@ I'm Amir Fanari, I build AI agents and full stack products that solve real busin
 ### 🚀 What I do
 • AI agents and automation tools  
 • AI Integrated Websites  
-• Creative tech projects for businesses  
+• projects for businesses  
 
 ### 📚 Currently learning
 • AI  
@@ -17,13 +17,6 @@ I'm Amir Fanari, I build AI agents and full stack products that solve real busin
 • Web projects  
 • SaaS tools  
 
-### 💬 Ask me about
-• AI systems  
-• Web development  
-• Startups and building things  
 
-### 📫 How to reach me
 • amir.f.fanari@gmail.com 
 
-### 😄 Fun fact
-I love mixing creativity with tech and turning ideas into real projects.
